@@ -1,0 +1,6 @@
+{
+    "sketch": "ledFootball.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "C_Cpp.intelliSenseEngine": "Tag Parser"
+}
